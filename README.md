@@ -1,5 +1,9 @@
 # Hello Quest OpenXR
-Forked from [makepad/hello_quest](https://github.com/makepad/hello_quest) & adapted for the new OpenXR runtime instead of VrApi
+
+## Forked from [makepad/hello_quest](https://github.com/makepad/hello_quest)
+Adapted for OpenXR runtime
+
+![image info](./image.png)
 
 This is a minimal example project for Linux that renders a colored cube to the
 Meta Quest 2, and requires neither Android Studio nor Gradle to build.
